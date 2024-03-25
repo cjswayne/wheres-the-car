@@ -1,3 +1,14 @@
+/* 
+Last worked on - 3/25/24
+
+stoping point: Finish location select ui, set up backend for having persistance on location select
+ - then deploy basic app
+ - improve
+
+
+*/
+
+
 import express from 'express'
 import dotenv from 'dotenv'
 import db from './config/connection.js'
